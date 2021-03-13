@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Graphic Design',     folder: 'pages', file: 'graphic-deisgn.html'}
+- {name: 'Graphic Design',     folder: 'pages', file: 'graphic-design.html'}
 - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Sample Posts',       folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Contact',            folder: 'pages', file: 'contact.html'}

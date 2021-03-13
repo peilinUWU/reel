@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Graphic Design',     folder: 'pages', file: 'graphic-design.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts',       folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Contact',            folder: 'pages', file: 'contact.html'}
+- {name: 'Graphic Design',  folder: 'pages', file: 'graphic-design.html'}
+- {name: 'Motion Graphic',  folder: 'pages', file: 'motion-graphic.html'}
+- {name: 'University Work', folder: 'pages', file: 'university-work.html'}
+- {name: 'Bother Me',       folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

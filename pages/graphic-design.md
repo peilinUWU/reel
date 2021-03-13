@@ -3,4 +3,4 @@ layout: page
 title: Graphic Design
 ---
 
-##Graphic Design sample 1
+## Graphic Design sample 1

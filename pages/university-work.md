@@ -2,6 +2,18 @@
 
 #### 2019
 
+## [TNM108] Machine Learning for Social Media
+###### Unsupervised Learning, Supervised Learning, Natural Language Processing, Python
+
+### Project
+The goal of the project is to classify animal sounds with the help of Machine Learning. This can be used as a basis to build apps that are suitable for childen and entertainment for example. One possible application could be a person-versus-AI game, where a sound is played and you need to guess which animal it was, and the model tries to classify the animal. The report is available [here](https://colab.research.google.com/drive/1s0cPxWQK6YqdzIxyW67jdxGoZeYfSTKg?usp=sharing) (in English).
+
+<img src="../assets/img/TNM108 Machine Learning for Social Media Project 1.png" width="400">
+
+<img src="../assets/img/TNM108 Machine Learning for Social Media Project 2.png" width="400">
+
+<br/><br/>
+
 ## [TNM095] Artificial Intelligence for Interactive Media
 ###### Neural Network, Genetic Algorithm, C#, Unity
 
@@ -13,7 +25,7 @@ The goal of the project is to create an AI that can outperform a human player in
 <br/><br/>
 
 ## [TNM084] Procedural Images
-###### C++, OSL, OpenGL, Autodesk 3ds Max, Terragen
+###### C++, Open Shading Language (OSL), OpenGL, Autodesk 3ds Max, Terragen
 
 ### Lab
 A series of labs to study, investigate and implement various methods, including noises, shaders, and getting hands on a commercial software Terragen from Planetside Software.

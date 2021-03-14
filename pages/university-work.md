@@ -8,7 +8,7 @@
 ### Lab
 Design a logo using Adobe Illustrator, a cover image using Adobe Photoshop, and a cover layout using Adobe InDesign for *Genre*.
 
-<img src="../assets/img/TNM069 Graphics Design and Communication Labs.jpg" width="400" align="left">
+<img src="../assets/img/TNM069 Graphics Design and Communication Labs.jpg" width="400">
 
 ### Project
 The goal of the project is to create a visual identity and several marketing materials, including logos and printed materials for a trade show for the business. The final product is a business and employment-oriented social networking service. Audience survey and analysis are conducted. Its functionality allows easy communication and interaction by and between companies and professionals, which is also the main message to be conveyed. The report is available [here](https://drive.google.com/file/d/1jxz9eQoEwNKrgR70HpnSWzDuL-jxPYCi/view?usp=sharing) (in English). Additionally, you can find the brand book [here](https://drive.google.com/file/d/17OUvGHYwN4xUotck3xKaJiR2eYDfcqop/view?usp=sharing), logo [here](https://drive.google.com/file/d/1B3ajYYmjxbdPivIiXg2naTzHGblfvYPt/view?usp=sharing), and webpage, roll-up and flyer mockup [here](https://drive.google.com/file/d/1BFDgDph0PYDDFrPijRnMtpt5RnGxPXCE/view?usp=sharing).

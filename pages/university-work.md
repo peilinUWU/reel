@@ -1,12 +1,12 @@
 # University Work
 
-#### 2018
+#### 2019
 
 ## [TNM069] Graphics Design and Communication
 ###### Linear Algebra, Calculus, C++, OpenGL
 
 ### Lab
-A series of labs to study, investigate and implement various topics, including mesh data structure, mesh decimation, splines and subdivision, implicit surface, and fluid simulation.
+A series of labs to study, investigate and implement various methods, including mesh data structure, mesh decimation, splines and subdivision, implicit surface, and fluid simulation.
 
 <img src="../assets/img/TNM079 Modelling and Animation Lab 2.jpg" width="400">
 

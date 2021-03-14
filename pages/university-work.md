@@ -3,7 +3,7 @@
 #### 2018
 
 
-## TNM069 Graphics Design and Communication (Grafisk Design och Kommunikation)
+## [TNM069] Graphics Design and Communication
 ###### Adobe Illustrator, Adobe Photoshop, Adobe InDesign, UX
 
 ### Lab
@@ -18,7 +18,7 @@ The goal of the project is to create a visual identity and several marketing mat
 
 <br/>
 
-## TNM085 Modelling Project (Modelleringsprojekt)
+## [TNM085] Modelling Project
 ###### Euler method, OpenGL
 
 ### Project
@@ -35,7 +35,7 @@ then visualized in OpenGL by using pre-existing 3D models. The report is availab
 
 #### 2017
 
-## TFYA65 Physics of Sound (Ljudfysik)
+## [TFYA65] Physics of Sound
 ###### MATLAB, Blender
 
 ### Project

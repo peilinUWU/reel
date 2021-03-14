@@ -8,6 +8,11 @@
   margin-right: auto;
 }
 .container a {
+  color: CornflowerBlue;
+  text-decoration: underline;
+}
+.container a:hover {
+  color: IndianRed;
   text-decoration: underline;
 }
 .posts-wrapper {

@@ -8,9 +8,9 @@
 ### Project
 The goal of the project is to classify animal sounds with the help of Machine Learning. This can be used as a basis to build apps that are suitable for childen and entertainment for example. One possible application could be a person-versus-AI game, where a sound is played and you need to guess which animal it was, and the model tries to classify the animal. The report is available [here](https://colab.research.google.com/drive/1s0cPxWQK6YqdzIxyW67jdxGoZeYfSTKg?usp=sharing) (in English).
 
-<img src="../assets/img/TNM108 Machine Learning for Social Media Project 1.png" width="400">
+<img src="../assets/img/TNM108 Machine Learning for Social Media Project 1.png" width="560">
 
-<img src="../assets/img/TNM108 Machine Learning for Social Media Project 2.png" width="400">
+<img src="../assets/img/TNM108 Machine Learning for Social Media Project 2.png" width="560">
 
 <br/><br/>
 
@@ -30,7 +30,7 @@ The goal of the project is to create an AI that can outperform a human player in
 ### Lab
 A series of labs to study, investigate and implement various methods, including noises, shaders, and getting hands on a commercial software Terragen from Planetside Software.
 
-<img src="../assets/img/TNM084 Procedural Images Lab 4.jpg" width="400">
+<img src="../assets/img/TNM084 Procedural Images Lab 4.jpg" width="560">
 
 ### Project
 The goal of the project is to explore the commercial software Terragen. It is a program that generates scenery using procedural methods, and designed to create large scale landscapes, environments and even planets. The report is available [here](https://drive.google.com/file/d/1XlQe5UKK5CkFcjD74BNM0nKSiiUU6CVI/view?usp=sharing) (in English).
@@ -45,9 +45,9 @@ The goal of the project is to explore the commercial software Terragen. It is a 
 ### Lab
 A series of labs to study, investigate and implement various methods, including mesh data structure, mesh decimation, splines and subdivision, implicit surface, and fluid simulation.
 
-<img src="../assets/img/TNM079 Modelling and Animation Lab 2.jpg" width="400">
+<img src="../assets/img/TNM079 Modelling and Animation Lab 2.jpg" width="560">
 
-<img src="../assets/img/TNM079 Modelling and Animation Lab 6.jpg" width="400">
+<img src="../assets/img/TNM079 Modelling and Animation Lab 6.jpg" width="560">
 
 <br/><br/>
 
@@ -63,12 +63,12 @@ A series of labs to study, investigate and implement various methods, including 
 ### Lab
 Design a logo using Adobe Illustrator, a cover image using Adobe Photoshop, and a cover layout using Adobe InDesign for *Genre*.
 
-<img src="../assets/img/TNM069 Graphics Design and Communication Labs.jpg" width="400">
+<img src="../assets/img/TNM069 Graphics Design and Communication Labs.jpg" width="560">
 
 ### Project
 The goal of the project is to create a visual identity and several marketing materials, including logos and printed materials for a trade show for the business. The final product is a business and employment-oriented social networking service. Audience survey and analysis are conducted. Its functionality allows easy communication and interaction by and between companies and professionals, which is also the main message to be conveyed. The report is available [here](https://drive.google.com/file/d/1jxz9eQoEwNKrgR70HpnSWzDuL-jxPYCi/view?usp=sharing) (in English). Additionally, you can find the brand book [here](https://drive.google.com/file/d/17OUvGHYwN4xUotck3xKaJiR2eYDfcqop/view?usp=sharing), logo [here](https://drive.google.com/file/d/1B3ajYYmjxbdPivIiXg2naTzHGblfvYPt/view?usp=sharing), and webpage, roll-up and flyer mockup [here](https://drive.google.com/file/d/1BFDgDph0PYDDFrPijRnMtpt5RnGxPXCE/view?usp=sharing).
 
-<img src="../assets/img/TNM069 Graphics Design and Communication Logo.jpg" width="400">
+<img src="../assets/img/TNM069 Graphics Design and Communication Logo.jpg" width="560">
 
 <br/><br/>
 

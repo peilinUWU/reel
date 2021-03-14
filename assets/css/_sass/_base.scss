@@ -87,8 +87,12 @@ dd {
 */
 
 a {
-  color: $brand-color;
-  text-decoration: none;
+  color: CornflowerBlue;
+  // text-decoration: none; 
+}
+
+a:hover {
+  color: IndianRed;
 }
 
 /*

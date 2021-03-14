@@ -15,7 +15,7 @@ The goal of the project is to explore the commercial software Terragen. It is a 
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/1Y1VqHSTnUWIe6aOyJIMpvkFyfbKrk_kM/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
+<br/><br/>
 
 ## [TNM079] Modelling and Animation
 ###### Linear Algebra, Calculus, C++, OpenGL
@@ -27,11 +27,11 @@ A series of labs to study, investigate and implement various methods, including 
 
 <img src="../assets/img/TNM079 Modelling and Animation Lab 6.jpg" width="400">
 
-<br/>
+<br/><br/>
 
 ------
 
-<br/>
+<br/><br/>
 
 #### 2018
 
@@ -48,7 +48,7 @@ The goal of the project is to create a visual identity and several marketing mat
 
 <img src="../assets/img/TNM069 Graphics Design and Communication Logo.jpg" width="400">
 
-<br/>
+<br/><br/>
 
 ## [TNM085] Modelling Project
 ###### Euler Method, OpenGL
@@ -59,11 +59,11 @@ then visualized in OpenGL by using pre-existing 3D models. The report is availab
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/10tXdDAaKJM4k6Ztu4p1VhKbwAjadWkfK/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
+<br/><br/>
 
 ------
 
-<br/>
+<br/><br/>
 
 #### 2017
 

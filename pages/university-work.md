@@ -4,6 +4,7 @@
 
 
 ## TNM069 Graphics Design and Communication (Grafisk Design och Kommunikation)
+###### Adobe Illustrator, Adobe Photoshop, Adobe InDesign, UX
 
 ### Lab
 Design a logo using Adobe Illustrator, a cover image using Adobe Photoshop, and a cover layout using Adobe InDesign for *Genre*.

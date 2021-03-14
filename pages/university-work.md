@@ -2,7 +2,22 @@
 
 #### 2019
 
-## [TNM069] Graphics Design and Communication
+## [TNM084] Procedural Images
+###### C++, OSL, OpenGL, Autodesk 3ds Max, Terragen
+
+### Lab
+A series of labs to study, investigate and implement various methods, including noises, shaders, and getting hands on a commercial software Terragen from Planetside Software.
+
+<img src="../assets/img/TNM084 Procedural Images Lab 4.jpg" width="400">
+
+### Project
+The goal of the project is to explore the commercial software Terragen. It is a program that generates scenery using procedural methods, and designed to create large scale landscapes, environments and even planets. The report is available [here](https://drive.google.com/file/d/1XlQe5UKK5CkFcjD74BNM0nKSiiUU6CVI/view?usp=sharing) (in English).
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1Y1VqHSTnUWIe6aOyJIMpvkFyfbKrk_kM/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+## [TNM079] Modelling and Animation
 ###### Linear Algebra, Calculus, C++, OpenGL
 
 ### Lab
@@ -36,7 +51,7 @@ The goal of the project is to create a visual identity and several marketing mat
 <br/>
 
 ## [TNM085] Modelling Project
-###### Euler method, OpenGL
+###### Euler Method, OpenGL
 
 ### Project
 The goal of the project is to create a differential function for a physically correct system using knowledge from the course Modulation and Simulation. The system must in turn be modeled and visualized in a way using the differential equation. A mathematical model for a mechanical watch is studied and simulated using Euler’s method. The system is

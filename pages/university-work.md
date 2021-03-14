@@ -3,7 +3,7 @@
 #### 2018
 
 
-## TNM069 Graphics Design and Communication (Modelleringsprojekt)
+## TNM069 Graphics Design and Communication (Grafisk Design och Kommunikation)
 
 ### Lab
 Design a logo using Adobe Illustrator, a cover image using Adobe Photoshop, and a cover layout using Adobe InDesign for *Genre*.

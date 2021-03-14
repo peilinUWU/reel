@@ -2,6 +2,16 @@
 
 #### 2019
 
+## [TNM095] Artificial Intelligence for Interactive Media
+###### Neural Network, Genetic Algorithm, C#, Unity
+
+### Project
+The goal of the project is to create an AI that can outperform a human player in a Lunar Lander game. The following goal is to be reached: land the rocket safely at the indicated place in a randomly generated environment. The AI is built on a small neural network, combined with genetic algorithm. The report is available [here](https://drive.google.com/file/d/14RoORGATb-YiED7kfyEW9UN55U6JFMq3/view?usp=sharing) (in English).
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1RfCUNerEdJW5sNjbY9_D6qAStaBqzTRI/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/>
+
 ## [TNM084] Procedural Images
 ###### C++, OSL, OpenGL, Autodesk 3ds Max, Terragen
 

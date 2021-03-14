@@ -2,6 +2,23 @@
 
 #### 2018
 
+## [TNM069] Graphics Design and Communication
+###### Linear Algebra, Calculus, C++, OpenGL
+
+### Lab
+A series of labs to study, investigate and implement various topics, including mesh data structure, mesh decimation, splines and subdivision, implicit surface, and fluid simulation.
+
+<img src="../assets/img/TNM079 Modelling and Animation Lab 2.jpg" width="400">
+
+<img src="../assets/img/TNM079 Modelling and Animation Lab 6.jpg" width="400">
+
+<br/>
+
+------
+
+<br/>
+
+#### 2018
 
 ## [TNM069] Graphics Design and Communication
 ###### Adobe Illustrator, Adobe Photoshop, Adobe InDesign, UX

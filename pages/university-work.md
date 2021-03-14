@@ -7,6 +7,7 @@
 
 ### Lab
 Design a logo using Adobe Illustrator, a cover image using Adobe Photoshop, and a cover layout using Adobe InDesign for *Genre*.
+
 ![TNM069 Lab](../assets/img/TNM069 Graphics Design and Communication Labs.jpg)
 
 ### Project

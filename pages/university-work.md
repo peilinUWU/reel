@@ -67,6 +67,17 @@ A series of labs to study, investigate and implement various methods, including 
 
 #### 2018
 
+## [TNM094] Media Technology - Bachelor Project
+###### UX, Scrum, C#, Unity
+
+### Project
+The goal of the project is to investigate development opportunities for an Air hockey game for touch tables. The Air hockey game should mimic the characteristics of a real Air hockey game, including game physics, design, interaction and sound. The report is available [here](https://drive.google.com/file/d/1ORWYm1kixwEz4fWjBEvPeAoGyuQm13LQ/view?usp=sharing) (in Swedish).
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1fTlWlJ-IV7UPCyz8mmsMOV8lX0yr1ZMa/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/>
+
+
 ## [TDDD23] Design and Programming of Computer Games
 ###### C#, Unity
 

@@ -140,6 +140,18 @@ The goal of the project is to create an animated short film that takes place in 
 
 <br/><br/>
 
+## [TNM040] Communication and User Interfaces
+###### UX, C#, Unity
+
+### Project
+The goal of the project is to create a graphical user interface, where the theoretical knowledge given in this course is applied. The course has been based on Norman's design principles and these have been applied when designing the game. The report is available [here](https://drive.google.com/file/d/1Fwfzsg3RQFLYAnelHM7tqSKxoFDXjqEt/view?usp=sharing) (in Swedish).
+
+<img src="../assets/img/TNM040 Communication and User Interfaces Project 1.jpg" width="560">
+
+<img src="../assets/img/TNM040 Communication and User Interfaces Project 2.jpg" width="560">
+
+<br/><br/>
+
 ------
 
 <br/><br/>

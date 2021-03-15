@@ -87,7 +87,7 @@ The goal of the project is to investigate development opportunities for an Air h
 
 
 ## [TDDD23] Design and Programming of Computer Games
-###### C#, Unity
+###### UX, C#, Unity
 
 ### Examination
 Demonstration of understanding of game design and game programming, through the work (the game product) and presentations (game seminar, final oral examination).

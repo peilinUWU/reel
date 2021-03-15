@@ -67,8 +67,18 @@ A series of labs to study, investigate and implement various methods, including 
 
 #### 2018
 
+## [TDDD23] Design and Programming of Computer Games
+###### C#, Unity
+
+### Examination
+Demonstration of understanding of game design and game programming, through the work (the game product) and presentations (game seminar, final oral examination).
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1GzPjiKMI7gx_dfVjnnuTYykH9HsBNVrH/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/>
+
 ## [TNM069] Graphics Design and Communication
-###### Adobe Illustrator, Adobe Photoshop, Adobe InDesign, UX
+###### UX, Adobe Illustrator, Adobe Photoshop, Adobe InDesign
 
 ### Lab
 Design a logo using Adobe Illustrator, a cover image using Adobe Photoshop, and a cover layout using Adobe InDesign for *Genre*.

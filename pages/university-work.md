@@ -128,3 +128,21 @@ The goal of the project is to create an animated short film that takes place in 
 <img src="../assets/img/TNM061 3-D Computer Graphics Project.gif" width="560">
 
 <br/><br/>
+
+------
+
+<br/><br/>
+
+#### 2016
+
+## [TNMK30] Electronic Publishing
+###### UX, HTML, CSS, PHP, JavaScript
+
+### Project
+The goal of the project is to create a user-friendly interface for a Lego database search engine. The report is available [here](https://drive.google.com/file/d/1HYzmbuYCCr2FHQb5eGQq8biWQ_W7Z3UK/view?usp=sharing) (in Swedish).
+
+<img src="../assets/img/TNMK30 Electronic Publishing Project 1.jpg" width="560">
+
+<img src="../assets/img/TNMK30 Electronic Publishing Project 2.jpg" width="560">
+
+<br/><br/>

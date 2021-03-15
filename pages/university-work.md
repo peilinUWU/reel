@@ -71,6 +71,8 @@ A series of labs to study, investigate and implement various methods, including 
 ### Project
 Non-player characters (NPC) that players can interact with, or the opponents that players face in a single player campaign, all have some degrees of artificial intelligence. The aim of this project is to develop a 2D puzzle game with AI agents. The fundamental idea is to place boxes at specific platforms to open gates. The report is available [here](https://drive.google.com/file/d/1oDVmy6tTppEWStxL3Kirn3-4DUcm3XuO/view?usp=sharing) (in English).
 
+<img src="../assets/img/TSBK03 Advanced Game Programming Project.gif" width="560">
+
 <br/><br/>
 
 ------

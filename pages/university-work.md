@@ -4,7 +4,13 @@ layout: page
 
 # University Work
 
-#### 2019
+#### 2020
+
+## [TQME33] Degree Project - Master's Thesis
+###### Framework, Python
+The goal of the study is to contribute to research in the field of maintaining long-term engagingness in chatbots, which is done through rapport building with the help of user and agent specific memory. The paper is availalbe [here](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-171927) (in English).
+
+<br/><br/>
 
 ## [TNCG13] SFX - Tricks of the Trade
 ###### Boids, Python, Blender
@@ -27,6 +33,12 @@ The goal of the project is to classify animal sounds with the help of Machine Le
 <img src="../assets/img/TNM108 Machine Learning for Social Media Project 2.png" width="560">
 
 <br/><br/>
+
+------
+
+<br/><br/>
+
+#### 2019
 
 ## [TNM095] Artificial Intelligence for Interactive Media
 ###### Neural Network, Genetic Algorithm, C#, Unity

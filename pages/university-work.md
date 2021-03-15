@@ -116,3 +116,15 @@ then visualized in OpenGL by using pre-existing 3D models. The report is availab
 The goal of the project is to do a frequency analysis on a given signal, filter according to certain specifications and make 3D animations using the signal. In this case, a low pass and high pass are used to create three audio files in three different frequency ranges. The audio files are then imported into Blender to create an animation to change the objects' properties (such as surface). The report is available [here](https://drive.google.com/file/d/1vX2lT6q238dQaXUPzaimQc0Zx2j_lgCs/view?usp=sharing) (in Swedish).
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/1RJb9Op4w3_FRs3ezDJTgs7nv7S_n7Bk0/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/>
+
+## [TNM061] 3-D Computer Graphics
+###### Blender, Adobe Photoshop, Adobe After Effects
+
+### Project
+The goal of the project is to create an animated short film that takes place in space, where an astronaut realizes the dream of his life, to surf on an asteroid. The report is available [here](https://drive.google.com/file/d/1dnpY3t4CLPP35G5rRIZLxIrXamX6MkVR/view?usp=sharing) (in Swedish).
+
+<img src="../assets/img/TNM061 3-D Computer Graphics Project.gif" width="560">
+
+<br/><br/>

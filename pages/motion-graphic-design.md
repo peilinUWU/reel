@@ -1,4 +1,7 @@
+---
+layout: page
+---
 
-## Motion Graphic Design
+# Motion Graphic Design
 
 ### (WIP)

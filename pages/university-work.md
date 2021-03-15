@@ -2,6 +2,16 @@
 
 #### 2019
 
+## [TNCG13] SFX - Tricks of the Trade
+###### Boids, Python, Blender
+
+### Project
+The goal of the project is to simulate an emergent behavior. This behavior takes place when a number of simple entities interact with each other, resulting in a complex movement which can not be exhibited by an individual. A distributed behavioral model was first proposed by Craig Reynolds, to create an artificial life program named Boids. This model consists of three simple rules: separation, alignment and cohesion. This basic model is sufficient to simulate movements that one often sees from a group of birds, a swarm of insects and a school of fish. The report is available [here](https://drive.google.com/file/d/1NddNS1CB0UVXK6wHDInXYfDCxUWo2aja/view?usp=sharing) (in English).
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1_H_Is1YRGdMYVvQLAYabwm8C-XF1dXAs/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/>
+
 ## [TNM108] Machine Learning for Social Media
 ###### Unsupervised Learning, Supervised Learning, Natural Language Processing, Python
 

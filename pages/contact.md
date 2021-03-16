@@ -1,6 +1,5 @@
 ---
-layout: misc
-title: Contact
+layout: page
 ---
 
 Inquiries: peiyu166@student.liu.se

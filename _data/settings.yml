@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 #- {name: 'Graphic Design',  folder: 'pages', file: 'graphic-design.html'}
-- {name: 'Motion Graphic Design',  folder: 'pages', file: 'motion-graphic-design.html'}
+#- {name: 'Motion Graphic Design',  folder: 'pages', file: 'motion-graphic-design.html'}
 - {name: 'University Work', folder: 'pages', file: 'university-work.html'}
 - {name: 'Bother Me',       folder: 'pages', file: 'contact.html'}
 
